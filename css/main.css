@@ -1,10 +1,10 @@
 h1{
-    color:greenyellow;
+    
     
     background-color: blue;
-    border: 1px solid black;
+    border: 3px solid black;
 }
 p {
     color:red;
-    text-size-adjust: 1px;
+    text-size-adjust: 5px;
 }
